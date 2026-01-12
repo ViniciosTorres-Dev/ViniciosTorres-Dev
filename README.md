@@ -66,6 +66,6 @@ I am seeking opportunities as a <b>Junior Back-End Developer</b> or <b>Intern</b
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo"/>
  </a>
 <a href="https://discord.com/users/1387955568857055312" target="_blank">
-  <img src="https://dcbadge.limes.pink/api/shield/1387955568857055312" alt="Discord Logo" />
+  <img src="https://dcbadge.limes.pink/api/shield/1387955568857055312?compact=true&theme=blurple" alt="Discord Badge Azul" />
 </a>
 </div>
