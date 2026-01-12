@@ -21,7 +21,7 @@ I am seeking opportunities as a <b>Junior Back-End Developer</b> or <b>Intern</b
 
 <h2 align="center">Programming Languages</h2>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:12px;">
+<div align="center" style="display:flex; justify-content:space-around; align-items:center; gap:24px; max-width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -36,22 +36,22 @@ I am seeking opportunities as a <b>Junior Back-End Developer</b> or <b>Intern</b
 
 <h2 align="center">Frameworks</h2>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:12px;">
+<div align="center" style="display:flex; justify-content:space-around; align-items:center; gap:24px; max-width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/pallets/flask/2579ce9f18e67ec3213c6eceb5240310ccd46af8/docs/_static/flask-icon.svg" height="40" alt="Flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" style="filter: brightness(0) invert(1);" alt="Flask logo branco"/>
   <img width="12" />
   
 </div>
 
 <h2 align="center">Databases</h2>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:12px;">
-  <img src="https://logospng.org/download/postgresql/postgresql-256.png" height="40" alt="PostgreSQL logo"  />
+<div align="center" style="display:flex; justify-content:space-around; align-items:center; gap:24px; max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -61,7 +61,7 @@ I am seeking opportunities as a <b>Junior Back-End Developer</b> or <b>Intern</b
 
 <h2 align="center">Social Media</h2>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:12px;">
+<div align="center" style="display:flex; justify-content:space-around; align-items:center; gap:24px; max-width: 100%;">
  <a href="https://www.linkedin.com/in/viniciostorres-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo"/>
  </a>
