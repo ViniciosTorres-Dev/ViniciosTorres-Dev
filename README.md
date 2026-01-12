@@ -1,10 +1,10 @@
 <h1 align="center">Vinícios Torres</h1>
 
-<h3 align="center">Junior Back-End Developer</h3>
+<h3 align="center">Back-End Developer In Training</h3>
 
 <br><br>
 
-<p align="left">Hello, my name is Vinícios. I am a Junior Back-End Developer in training, focused on building RESTful APIs and web applications using <b>Python (Flask)</b> and <b>Java (Spring Boot)</b>.
+<p align="left">Hello, my name is Vinícios. I am a Back-End Developer in training, focused on building RESTful APIs and web applications using <b>Python (Flask)</b> and <b>Java (Spring Boot)</b>.
 
 I have experience working with relational databases such as <b>MySQL</b> and <b>PostgreSQL</b>, using <b>Firebase/Firestore</b>, implementing authentication flows, and consuming external APIs.
 
